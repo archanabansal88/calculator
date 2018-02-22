@@ -1,5 +1,5 @@
 # FreeCodeCamp - Calculator Project
->[Live Demo](https://archanabansal88.github.io/calculator/)
+>[Live Demo](https://archanabansal88.github.io/calculator/index)
 
 ## Project Requirements:
 
